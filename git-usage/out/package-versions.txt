@@ -1,0 +1,29 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19043)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252 
+[2] LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252
+[4] LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods  
+[7] base     
+
+loaded via a namespace (and not attached):
+ [1] rstudioapi_0.13  magrittr_2.0.1   tidyselect_1.1.0
+ [4] munsell_0.5.0    colorspace_1.4-1 R6_2.4.1        
+ [7] rlang_0.4.12     fansi_0.4.1      dplyr_1.0.7     
+[10] tools_4.0.3      grid_4.0.3       gtable_0.3.0    
+[13] xfun_0.28        tinytex_0.35     utf8_1.1.4      
+[16] cli_3.1.0        DBI_1.1.0        ellipsis_0.3.2  
+[19] assertthat_0.2.1 tibble_3.0.4     lifecycle_1.0.1 
+[22] crayon_1.4.2     purrr_0.3.4      ggplot2_3.3.5   
+[25] vctrs_0.3.8      glue_1.4.2       compiler_4.0.3  
+[28] pillar_1.6.4     generics_0.0.2   scales_1.1.1    
+[31] pkgconfig_2.0.3 
